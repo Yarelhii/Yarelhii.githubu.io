@@ -1,0 +1,6 @@
+.reloj
+ { width: 150px; height: 30px; padding: 5px 10px;  
+    font: bold 0.9em dotum, "lucida sans", arial; 
+    text-align: center;
+    float: right; margin: 1em 3em 1em 1em; 
+   color: rgb(48, 231, 12);}
